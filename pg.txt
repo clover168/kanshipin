@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/clover168/kanshipin/refs/heads/main/pg/jsm.json", "name": "PG" }]}
+{ "urls": [{ "url": "https://github.akams.cn/https://raw.githubusercontent.com/clover168/kanshipin/refs/heads/main/pg/jsm.json", "name": "PG" }]}

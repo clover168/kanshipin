@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://githubproxy.cc/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "真心" }]}
+{ "urls": [{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/clover168/kanshipin/refs/heads/main/真心/FongMi.json", "name": "真心" }]}

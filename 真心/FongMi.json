@@ -170,19 +170,6 @@
       }
     },
     {
-            "name": "嗷呜弹幕",
-            "key": "嗷呜弹幕",
-            "type": 3,
-            "api": "csp_GoConfig",
-            "jar":"./嗷呜弹幕/custom_spider.jar",
-            "indexs":1,
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext":"./嗷呜弹幕/dmlib"
-        },
-        {
       "key": "p2t",
       "name": "盘搜",
       "type": 3,
@@ -197,6 +184,19 @@
         "filter": "./lib/douban.json"
       }
     },
+    {
+            "name": "嗷呜弹幕",
+            "key": "嗷呜弹幕",
+            "type": 3,
+            "api": "csp_GoConfig",
+            "jar":"./嗷呜弹幕/custom_spider.jar",
+            "indexs":1,
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext":"./嗷呜弹幕/dmlib"
+    },   
     {
       "key": "网盘集合",
       "name": "网盘集合 | 4K",

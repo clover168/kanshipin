@@ -1,0 +1,1 @@
+{ "urls": [{ "url": "https://githubproxy.cc/https://raw.githubusercontent.com/clover168/kanshipin/refs/heads/main/pg/jsm.json", "name": "PG" }]}

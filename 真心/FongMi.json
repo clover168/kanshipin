@@ -159,17 +159,6 @@
       }
     },
     {
-      "key": "ConfigCenter",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
       "key": "p2t",
       "name": "盘搜",
       "type": 3,
@@ -196,7 +185,18 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext":"./嗷呜弹幕/dmlib"
-    },   
+    },
+    {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
     {
       "key": "网盘集合",
       "name": "网盘集合 | 4K",
@@ -224,8 +224,8 @@
       }
     },
     {
-      "key": "肥牛",
-      "name": "Emby肥牛",
+      "key": "Emby",
+      "name": "Emby",
       "type": 3,
       "api": "csp_Emby",
       "searchable": 1,
@@ -234,10 +234,12 @@
       "ext": {
 //        "server": "https://emby.feiniu.lol:443",
         //emby需要梯子的，配置代理头
-        "server": "http://127.0.0.1:9966/api/proxy/https://emby.feiniu.lol:443",
-        "username":"123",
-        "password":"2232",
-        "ua":"",
+        "server": "http://127.0.0.1:9966/api/proxy/http://cf.xmsl.org",
+        "username":"23",
+        "password":"213",
+        "ua":"Yamby/1.0.2(Andriod)",
+        "client": "Yamby",
+        "deviceName": "Yamby",
         "commonConfig": "./json/peizhi.json"
       },
       "changeable": 1

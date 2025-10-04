@@ -56,7 +56,7 @@
             "key": "嗷呜弹幕",
             "type": 3,
             "api": "csp_GoConfig",
-            "jar":"./嗷呜弹幕/custom_spider.jar",
+            "jar":"./嗷呜弹幕/spider/custom_spider.jar",
    "indexs":1,
             "searchable": 1,
             "filterable": 0,
